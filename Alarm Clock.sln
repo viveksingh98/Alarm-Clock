@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alarm Clock", "Alarm Clock.csproj", "{19AB8829-814D-42AE-B118-0F8D89CB5E2B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Vivek's Alarm", "..\Vivek's Alarm\Vivek's Alarm.vdproj", "{F693056E-1A20-4615-B5B1-C49FEC607F74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AB8829-814D-42AE-B118-0F8D89CB5E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AB8829-814D-42AE-B118-0F8D89CB5E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AB8829-814D-42AE-B118-0F8D89CB5E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AB8829-814D-42AE-B118-0F8D89CB5E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F693056E-1A20-4615-B5B1-C49FEC607F74}.Debug|Any CPU.ActiveCfg = Debug
+		{F693056E-1A20-4615-B5B1-C49FEC607F74}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E667E7AF-7F11-4168-AEF5-DC07EC087680}
+	EndGlobalSection
+EndGlobal
